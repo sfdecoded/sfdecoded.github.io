@@ -16,4 +16,4 @@ Allow: /favicons/
 
 
 # Sitemap
-Sitemap: https://sfdecoded.netlify.app/sitemap.xml
+Sitemap: https://sfdecoded.github.io/sitemap.xml

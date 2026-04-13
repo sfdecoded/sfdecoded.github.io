@@ -5,7 +5,7 @@ Salesforce Decoded is a collection of tools, guides, and resources built to help
 The platform provides utilities for Apex, SOQL, debugging, and developer productivity.
 
 Live website:
-https://sfdecoded.netlify.app
+https://sfdecoded.github.io
 
 ---
 
